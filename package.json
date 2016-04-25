@@ -1,0 +1,23 @@
+{
+  "name": "node-icq",
+  "version": "1.0.0",
+  "description": "Implementation of ICQ protocol",
+  "main": "./lib/node-icq.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "icq",
+    "wim",
+    "node"
+  ],
+  "author": "Kurkin",
+  "license": "MIT",
+  "dependencies": {
+    "extend": "*",
+    "log4js": "*",
+    "querystring": "*",
+    "request": "*",
+    "sort-object": "*"
+  }  
+}

@@ -1,0 +1,18 @@
+{
+  "appenders": [
+    {
+      "type": "file",
+      "filename": "out.log",
+      "maxLogSize": 20480000,
+      "backups": 5,
+      "category": "out"
+    },
+    {
+      "type": "file",
+      "filename": "WIM.log",
+      "maxLogSize": 20480000,
+      "backups": 5,
+      "category": "WIM"
+    }
+  ]
+}
