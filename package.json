@@ -16,6 +16,7 @@
   "dependencies": {
     "extend": "*",
     "log4js": "*",
+    "url": "*",
     "querystring": "*",
     "request": "*",
     "sort-object": "*"
