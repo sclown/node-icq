@@ -19,6 +19,8 @@
     "url": "*",
     "querystring": "*",
     "request": "*",
-    "sort-object": "*"
+    "sort-object": "*",
+    "json-bigint": "*",
+    "bignumber": "*"
   }
 }
