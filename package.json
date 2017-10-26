@@ -15,7 +15,7 @@
   "license": "MIT",
   "dependencies": {
     "extend": "*",
-    "log4js": "*",
+    "log4js": "1.*",
     "url": "*",
     "querystring": "*",
     "request": "*",
